@@ -37,6 +37,7 @@
 		F0E36FF9265019800075A55A /* Category.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Category.swift; sourceTree = "<group>"; };
 		F0E36FFA265019800075A55A /* Item.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
 		F0E36FFF26501A740075A55A /* UIColor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIColor.swift; sourceTree = "<group>"; };
+		F0E3703B26539A1D0075A55A /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +57,7 @@
 		F0E36FBD265012780075A55A = {
 			isa = PBXGroup;
 			children = (
+				F0E3703B26539A1D0075A55A /* README.md */,
 				F0E36FC8265012780075A55A /* TodosRealm */,
 				F0E36FC7265012780075A55A /* Products */,
 			);
